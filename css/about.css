@@ -1,0 +1,20 @@
+.hero {
+    background-image:url(img/haircuts.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    height:100%;
+}
+
+.min-vh-75 {
+    min-height:95vh !important;
+    position:relative;
+}
+
+.navbar-brand  {
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+ul {
+    list-style-type: none;
+   }

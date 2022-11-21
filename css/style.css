@@ -1,0 +1,20 @@
+.hero {
+    background-image:url(img/hero.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    height:100%;
+}
+
+.navbar-brand  {
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+.min-vh-75 {
+    min-height:95vh !important;
+    position:relative;
+}
+
+ul {
+    list-style-type: none;
+   }
